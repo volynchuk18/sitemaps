@@ -303,7 +303,6 @@ export default {
     font-weight: bold
 
   .sitemaps-filters
-    overflow: auto
     background: $color-catskill-white
     padding: 11px 21px
 
